@@ -21,22 +21,22 @@ const About = () => {
             <article className="about__card">
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>1.5+ Years</small>
             </article>
             <article className="about__card">
               <FaUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>5+ Local</small>
             </article>
             <article className="about__card">
               <FaFolder className='about__icon'/>
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>5+ Completed</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil temporibus perferendis, voluptate quia ipsum nisi doloremque iste voluptas neque possimus quasi corrupti amet minus vel maiores asperiores illum et saepe.
+          I'm Joey A. Cabelin, a BSIT graduate and web developer. I'm excited to take on new challenges, work with others who share my interests, and help make cool stuff in the digital world. Let's team up and create something awesome together!
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

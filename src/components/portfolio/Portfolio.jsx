@@ -1,6 +1,6 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
+import IMG1 from '../../assets/portfolio1.png'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
@@ -12,44 +12,44 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
-    github: 'https://github.com',
-    demo: 'Link for demo'
+    title: 'Document Tracking System',
+    github: 'https://github.com/JoeyTheHecker/document-tracking-system',
+    demo: 'https://doctrackdolero8.freshfromuspng.store/'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
-    github: 'https://github.com',
-    demo: 'Link for demo'
+    title: 'GIP monitoring system',
+    github: 'https://github.com/JoeyTheHecker/gip-monitoring-system',
+    demo: 'https://gipmonitoring.freshfromuspng.store/'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
-    github: 'https://github.com',
-    demo: 'Link for demo'
+    title: 'QR-code-based-attendance-system',
+    github: 'https://github.com/JoeyTheHecker/QR-code-based-attendance-system',
+    demo: 'https://pesocongress2023.freshfromuspng.store/'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
-    github: 'https://github.com',
+    title: 'Vehicles-management-with-API-Integration-of-ANPR',
+    github: 'https://github.com/JoeyTheHecker/Vehicles-management-with-API-Integration-of-ANPR',
     demo: 'Link for demo'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
-    github: 'https://github.com',
+    title: 'React + Laravel user crud app',
+    github: 'https://github.com/JoeyTheHecker/user-crud-app',
     demo: 'Link for demo'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
+    title: 'Digital menu',
     github: 'https://github.com',
-    demo: 'Link for demo'
+    demo: 'https://digitalmenu.w3spaces.com/'
   },
 ];
 
